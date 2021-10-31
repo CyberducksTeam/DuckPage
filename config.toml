@@ -2,7 +2,6 @@ baseURL = "https://cyberducksteam.github.io/DuckPage/"
 languageCode = "de"
 title = "Cyberducks"
 theme = "beautifulhugo"
-repositoryName = "DuckPage"
 
 #https://example.mjkranch.com/post/2017-03-07-bigimg-sample/
 
@@ -13,11 +12,12 @@ pygmentsUseClasses = true
 
 [languages]
   [languages.de] 
-    contentDir = "content/de" 
+    contentDir = "DuckPage/content/de" 
   [languages.en]
     contentDir = "content/en" 
 
 DefaultContentLanguage = "de"
+#DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
 
 # War aktiviert
@@ -48,7 +48,6 @@ metaDataFormat = "yaml"
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -97,25 +96,25 @@ metaDataFormat = "yaml"
 [[menu.main]]
     name = "Teams"
     identifier = "Teams"
-    url = "DuckPage/team/"
+    url = "team/"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Cybathlon Team"
-    url = "DuckPage/team/cybathlon"
+    url = "team/cybathlon"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Space Team"
-    url = "DuckPage/team/spaceteam"
+    url = "team/spaceteam"
     weight = 2
 
 [[menu.main]]
     parent = "Teams"
     name = "Racing Team"
-    url = "DuckPage/team/racingteam"
+    url = "team/racingteam"
     weight = 3
 
 
@@ -126,7 +125,7 @@ metaDataFormat = "yaml"
 #    identifier = "Projekte"
     name = "Projekte"
     weight = 2
-    url = "DuckPage/projects"
+    url = "projects"
 #
 #[[menu.main]]
 #    parent = "Projekte"
@@ -151,19 +150,19 @@ metaDataFormat = "yaml"
 
 [[menu.main]]
     name = "Pressemitteilungen"
-    url = "DuckPage/press"
+    url = "press"
     weight = 3
 
 
 
 [[menu.main]]
     name = "Kontakt"
-    url = "DuckPage/contact"
+    url = "contact"
     weight = 4
 
 [[menu.main]]
     name = "Über uns"
-    url = "DuckPage/about_us"
+    url = "about_us"
     weight = 5
 
 #[[menu.main]]
