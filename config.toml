@@ -1,0 +1,163 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cyberducks"
+theme = "beautifulhugo"
+
+#sectionPagesMenu = "main"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[languages]
+  [languages.de] 
+    contentDir = "content/de" # English
+  [languages.en]
+    contentDir = "content/en" # Japanese
+
+DefaultContentLanguage = "de"
+#DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+
+# War aktiviert
+#pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+#pygmentsCodefencesGuessSyntax = true
+
+
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = ""
+  mainSections = ["post","posts"]
+  logo = "img/CyberDuckLogoWithHat.png" # Expecting square dimensions
+  favicon = "img/CyberDuckLogoWithHat_transparen.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Patrick Kary"
+  #website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  #facebook = "username"
+  github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "username"
+  reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[[menu.main]]
+    name = "Teams"
+    identifier = "Teams"
+    url = "team/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Teams"
+    name = "Cybathlon Team"
+    url = "team/cybathlon"
+    weight = 1
+
+[[menu.main]]
+    parent = "Teams"
+    name = "Space Team"
+    url = "post/2016-03-08-code-sample"
+    weight = 2
+
+[[menu.main]]
+    parent = "Teams"
+    name = "Racing Team"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
+
+
+
+
+
+[[menu.main]]
+#    identifier = "Projekte"
+    name = "Projekte"
+    weight = 2
+    url = "projects"
+#
+#[[menu.main]]
+#    parent = "Projekte"
+#    name = "Big Image Sample"
+#    url = "projects/project1"
+#    weight = 1
+#
+#[[menu.main]]
+#    parent = "Projekte"
+#    name = "Math Sample"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+#
+#[[menu.main]]
+#    parent = "Projekte"
+#    name = "Code Sample"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+#
+#
+#
+
+[[menu.main]]
+    name = "Pressemitteilungen"
+    url = "press"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "contact"
+    weight = 4
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
