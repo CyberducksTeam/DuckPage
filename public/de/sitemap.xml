@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/contact/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/projects/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/press/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/press/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/cybathlon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/spaceteam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/press/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/about_us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/about_us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/about_us/"
+                />
+  </url>
+  
+</urlset>

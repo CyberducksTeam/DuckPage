@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/contact/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/press/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/press/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/about_us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberducksteam.github.io/de/about_us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberducksteam.github.io/about_us/"
+                />
+  </url>
+  
+</urlset>
