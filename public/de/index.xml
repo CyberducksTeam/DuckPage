@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyberducks</title>
-    <link>https://cyberducksteam.github.io/de/</link>
+    <link>https://cyberducksteam.github.io/DuckPage/de/</link>
     <description>Recent content on Cyberducks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@domain.com (Patrick Kary)</managingEditor>
-    <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/DuckPage/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybathlonteam</title>
-      <link>https://cyberducksteam.github.io/de/team/page/cybathlon/</link>
+      <link>https://cyberducksteam.github.io/DuckPage/de/team/page/cybathlon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Patrick Kary)</author>
-      <guid>https://cyberducksteam.github.io/de/team/page/cybathlon/</guid>
+      <guid>https://cyberducksteam.github.io/DuckPage/de/team/page/cybathlon/</guid>
       <description>Der Cybathlon   </description>
     </item>
     
     <item>
       <title>Hinweis</title>
-      <link>https://cyberducksteam.github.io/de/projects/project1/</link>
+      <link>https://cyberducksteam.github.io/DuckPage/de/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Patrick Kary)</author>
-      <guid>https://cyberducksteam.github.io/de/projects/project1/</guid>
+      <guid>https://cyberducksteam.github.io/DuckPage/de/projects/project1/</guid>
       <description>Leider gibt es zurzeit keine Projekte </description>
     </item>
     
     <item>
       <title>Racingteam</title>
-      <link>https://cyberducksteam.github.io/de/team/page/racingteam/</link>
+      <link>https://cyberducksteam.github.io/DuckPage/de/team/page/racingteam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Patrick Kary)</author>
-      <guid>https://cyberducksteam.github.io/de/team/page/racingteam/</guid>
+      <guid>https://cyberducksteam.github.io/DuckPage/de/team/page/racingteam/</guid>
       <description>FormulaStudent   </description>
     </item>
     
     <item>
       <title>Spaceteam</title>
-      <link>https://cyberducksteam.github.io/de/team/page/spaceteam/</link>
+      <link>https://cyberducksteam.github.io/DuckPage/de/team/page/spaceteam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Patrick Kary)</author>
-      <guid>https://cyberducksteam.github.io/de/team/page/spaceteam/</guid>
+      <guid>https://cyberducksteam.github.io/DuckPage/de/team/page/spaceteam/</guid>
       <description>SpaceRace   </description>
     </item>
     
     <item>
       <title>Wir existieren</title>
-      <link>https://cyberducksteam.github.io/de/press/project1/</link>
+      <link>https://cyberducksteam.github.io/DuckPage/de/press/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Patrick Kary)</author>
-      <guid>https://cyberducksteam.github.io/de/press/project1/</guid>
+      <guid>https://cyberducksteam.github.io/DuckPage/de/press/project1/</guid>
       <description>Hello World Mit großer Freude darf..</description>
     </item>
     
