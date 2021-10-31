@@ -18,7 +18,6 @@ pygmentsUseClasses = true
     contentDir = "content/en" 
 
 DefaultContentLanguage = "de"
-DefaultContentLanguage = "de"
 metaDataFormat = "yaml"
 
 # War aktiviert
@@ -98,25 +97,25 @@ metaDataFormat = "yaml"
 [[menu.main]]
     name = "Teams"
     identifier = "Teams"
-    url = "{{ $.Param "repositoryName" }}/team/"
+    url = "DuckPage/team/"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Cybathlon Team"
-    url = "{{ $.Param "repositoryName" }}/team/cybathlon"
+    url = "DuckPage/team/cybathlon"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Space Team"
-    url = "{{ $.Param "repositoryName" }}/team/spaceteam"
+    url = "DuckPage/team/spaceteam"
     weight = 2
 
 [[menu.main]]
     parent = "Teams"
     name = "Racing Team"
-    url = "{{ $.Param "repositoryName" }}/team/racingteam"
+    url = "DuckPage/team/racingteam"
     weight = 3
 
 
@@ -127,7 +126,7 @@ metaDataFormat = "yaml"
 #    identifier = "Projekte"
     name = "Projekte"
     weight = 2
-    url = "projects"
+    url = "DuckPage/projects"
 #
 #[[menu.main]]
 #    parent = "Projekte"
@@ -152,19 +151,19 @@ metaDataFormat = "yaml"
 
 [[menu.main]]
     name = "Pressemitteilungen"
-    url = "{{ $.Param "repositoryName" }}/press"
+    url = "DuckPage/press"
     weight = 3
 
 
 
 [[menu.main]]
     name = "Kontakt"
-    url = "{{ $.Param "repositoryName" }}/contact"
+    url = "DuckPage/contact"
     weight = 4
 
 [[menu.main]]
     name = "Über uns"
-    url = "{{ $.Param "repositoryName" }}/about_us"
+    url = "DuckPage/about_us"
     weight = 5
 
 #[[menu.main]]
