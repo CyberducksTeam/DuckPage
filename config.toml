@@ -3,6 +3,8 @@ languageCode = "de"
 title = "Cyberducks"
 theme = "beautifulhugo"
 
+#https://example.mjkranch.com/post/2017-03-07-bigimg-sample/
+
 #sectionPagesMenu = "main"
 
 pygmentsCodeFences = true
