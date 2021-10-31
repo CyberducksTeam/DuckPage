@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://cyberducksteam.github.io/de/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,10 +32,6 @@
   </url>
   
   <url>
-    <loc>https://cyberducksteam.github.io/de/team/</loc>
-  </url>
-  
-  <url>
     <loc>https://cyberducksteam.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +43,10 @@
                 hreflang="de"
                 href="https://cyberducksteam.github.io/de/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/page/cybathlon/</loc>
   </url>
   
   <url>
@@ -97,6 +96,14 @@
   </url>
   
   <url>
+    <loc>https://cyberducksteam.github.io/de/team/page/racingteam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/de/team/page/spaceteam/</loc>
+  </url>
+  
+  <url>
     <loc>https://cyberducksteam.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,14 +129,6 @@
                 hreflang="de"
                 href="https://cyberducksteam.github.io/de/team/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cyberducksteam.github.io/de/team/cybathlon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cyberducksteam.github.io/de/team/spaceteam/</loc>
   </url>
   
   <url>
