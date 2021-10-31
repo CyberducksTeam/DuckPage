@@ -12,12 +12,11 @@ pygmentsUseClasses = true
 
 [languages]
   [languages.de] 
-    contentDir = "DuckPage/content/de" 
+    contentDir = "content/de" 
   [languages.en]
     contentDir = "content/en" 
 
 DefaultContentLanguage = "de"
-#DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
 
 # War aktiviert
