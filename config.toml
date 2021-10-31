@@ -1,5 +1,5 @@
-baseURL = "https://cyberducksteam.github.io/HomeTest/"
-languageCode = "en-us"
+baseURL = "https://cyberducksteam.github.io/"
+languageCode = "de"
 title = "Cyberducks"
 theme = "beautifulhugo"
 
@@ -33,7 +33,7 @@ metaDataFormat = "yaml"
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = ""
-  mainSections = ["post","posts"]
+  mainSections = ["about_us"]
   logo = "img/CyberDuckLogoWithHat.png" # Expecting square dimensions
   favicon = "img/CyberDuckLogoWithHat_transparen.ico"
   dateFormat = "January 2, 2006"
@@ -106,13 +106,13 @@ metaDataFormat = "yaml"
 [[menu.main]]
     parent = "Teams"
     name = "Space Team"
-    url = "post/2016-03-08-code-sample"
+    url = "team/spaceteam"
     weight = 2
 
 [[menu.main]]
     parent = "Teams"
     name = "Racing Team"
-    url = "post/2016-03-08-code-sample"
+    url = "team/racingteam"
     weight = 3
 
 
@@ -152,12 +152,18 @@ metaDataFormat = "yaml"
     weight = 3
 
 
+
 [[menu.main]]
     name = "Kontakt"
     url = "contact"
     weight = 4
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+    name = "Über uns"
+    url = "about_us"
+    weight = 5
+
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3

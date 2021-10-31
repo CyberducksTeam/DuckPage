@@ -1,5 +1,5 @@
 ---
-title: "Teams"
+title: "Cybathlonteam"
 author: "Patrick Kary"
 type: "base"
 date: 
