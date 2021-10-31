@@ -2,6 +2,7 @@ baseURL = "https://cyberducksteam.github.io/DuckPage/"
 languageCode = "de"
 title = "Cyberducks"
 theme = "beautifulhugo"
+repositoryName = "DuckPage"
 
 #https://example.mjkranch.com/post/2017-03-07-bigimg-sample/
 
@@ -12,12 +13,12 @@ pygmentsUseClasses = true
 
 [languages]
   [languages.de] 
-    contentDir = "content/de" # English
+    contentDir = "content/de" 
   [languages.en]
-    contentDir = "content/en" # Japanese
+    contentDir = "content/en" 
 
 DefaultContentLanguage = "de"
-#DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 metaDataFormat = "yaml"
 
 # War aktiviert
@@ -48,6 +49,7 @@ metaDataFormat = "yaml"
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -96,25 +98,25 @@ metaDataFormat = "yaml"
 [[menu.main]]
     name = "Teams"
     identifier = "Teams"
-    url = "team/"
+    url = "{{ $.Param "repositoryName" }}/team/"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Cybathlon Team"
-    url = "team/cybathlon"
+    url = "{{ $.Param "repositoryName" }}/team/cybathlon"
     weight = 1
 
 [[menu.main]]
     parent = "Teams"
     name = "Space Team"
-    url = "team/spaceteam"
+    url = "{{ $.Param "repositoryName" }}/team/spaceteam"
     weight = 2
 
 [[menu.main]]
     parent = "Teams"
     name = "Racing Team"
-    url = "team/racingteam"
+    url = "{{ $.Param "repositoryName" }}/team/racingteam"
     weight = 3
 
 
@@ -150,19 +152,19 @@ metaDataFormat = "yaml"
 
 [[menu.main]]
     name = "Pressemitteilungen"
-    url = "press"
+    url = "{{ $.Param "repositoryName" }}/press"
     weight = 3
 
 
 
 [[menu.main]]
     name = "Kontakt"
-    url = "contact"
+    url = "{{ $.Param "repositoryName" }}/contact"
     weight = 4
 
 [[menu.main]]
     name = "Über uns"
-    url = "about_us"
+    url = "{{ $.Param "repositoryName" }}/about_us"
     weight = 5
 
 #[[menu.main]]
