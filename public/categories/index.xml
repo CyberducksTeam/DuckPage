@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cyberducks</title>
-    <link>https://cyberducksteam.github.io/categories/</link>
+    <link>https://cyberducksteam.github.io/DuckPage/categories/</link>
     <description>Recent content in Categories on Cyberducks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@domain.com (Patrick Kary)</managingEditor>
-    <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/DuckPage/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
