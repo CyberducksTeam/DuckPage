@@ -11,11 +11,11 @@ theme = "beautifulhugo"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
-[languages]
-  [languages.de] 
-    contentDir = "/content/de" 
-  [languages.en]
-    contentDir = "/content/en" 
+#[languages]
+#  [languages.de] 
+#    contentDir = "/content/de" 
+#  [languages.en]
+#    contentDir = "/content/en" 
 
 DefaultContentLanguage = "de"
 metaDataFormat = "yaml"

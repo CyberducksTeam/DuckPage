@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://cyberducksteam.github.io/de/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://cyberducksteam.github.io/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://cyberducksteam.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://cyberducksteam.github.io/contact/</loc>
+    <priority>0</priority>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://cyberducksteam.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/team/page/cybathlon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/projects/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/press/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/team/page/racingteam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/team/page/spaceteam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/press/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberducksteam.github.io/about_us/</loc>
+  </url>
+  
+</urlset>
