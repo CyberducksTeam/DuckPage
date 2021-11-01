@@ -12,9 +12,9 @@ pygmentsUseClasses = true
 
 [languages]
   [languages.de] 
-    contentDir = "/content/DuckPage/de" 
+    contentDir = "/content/de" 
   [languages.en]
-    contentDir = "/content/DuckPage/en" 
+    contentDir = "/content/en" 
 
 DefaultContentLanguage = "de"
 metaDataFormat = "yaml"
