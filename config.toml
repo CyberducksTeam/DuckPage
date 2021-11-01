@@ -1,4 +1,4 @@
-baseURL = "https://cyberducksteam.github.io/DuckPage/"
+baseURL = "cyberducks.io"
 languageCode = "de"
 title = "Cyberducks"
 theme = "beautifulhugo"

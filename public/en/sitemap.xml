@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cyberducksteam.github.io/DuckPage/categories/</loc>
+    <loc>cyberducks.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://cyberducksteam.github.io/DuckPage/de/categories/"
+                href="cyberducks.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cyberducksteam.github.io/DuckPage/categories/"
+                href="cyberducks.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cyberducksteam.github.io/DuckPage/</loc>
+    <loc>cyberducks.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://cyberducksteam.github.io/DuckPage/de/"
+                href="cyberducks.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cyberducksteam.github.io/DuckPage/"
+                href="cyberducks.io/"
                 />
   </url>
   
   <url>
-    <loc>https://cyberducksteam.github.io/DuckPage/tags/</loc>
+    <loc>cyberducks.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://cyberducksteam.github.io/DuckPage/de/tags/"
+                href="cyberducks.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cyberducksteam.github.io/DuckPage/tags/"
+                href="cyberducks.io/tags/"
                 />
   </url>
   
