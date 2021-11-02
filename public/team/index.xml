@@ -6,33 +6,43 @@
     <description>Recent content in Teams on Cyberducks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <managingEditor>youremail@domain.com (Patrick Kary)</managingEditor>
-    <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/DuckPage/team/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>cyberducks@protonmail.com (Kary)</managingEditor>
+    <webMaster>cyberducks@protonmail.com (Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/DuckPage/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybathlonteam</title>
       <link>https://cyberducksteam.github.io/DuckPage/team/cybathlon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Patrick Kary)</author>
+      <author>cyberducks@protonmail.com (Kary)</author>
       <guid>https://cyberducksteam.github.io/DuckPage/team/cybathlon/</guid>
-      <description>Der Cybathlon   </description>
+      <description>Der Cybathlon Lust auf Cyberpunk irl dann ist der Cybathlon genau das richtige für dich, hier wollen wir Menschen mit motorisierten Prothesen helfen um ihnen den Alltag zu erleichtern.
+Noch kein Bild wie das aussehen könnte, dann hilft dir sicherlich das Vorstellungsvideo des Wettbewerbs:
+  Disziplinen Es gibt die Möglichkeit in folgenden Disziplinen anzutreten:
+  ARM: Geschicklichkeitsparcours mit Armprothesen
+  EXO: Parcours mit robotischen Exoskeletten
+  LEG: Hindernisparcours mit Beinprothesen</description>
     </item>
     
     <item>
       <title>Racingteam</title>
       <link>https://cyberducksteam.github.io/DuckPage/team/racingteam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Patrick Kary)</author>
+      <author>cyberducks@protonmail.com (Kary)</author>
       <guid>https://cyberducksteam.github.io/DuckPage/team/racingteam/</guid>
-      <description>FormulaStudent   </description>
+      <description>FormulaStudent Lust die schnellste Ente in Österreich zu bauen? Dann mach mit und erkunde mit uns die Mobilität der Zukunft.
+Noch nie etwas von der Formula Student Austria gehört hier ist das Aftermovie von 2021:
+  </description>
     </item>
     
     <item>
       <title>Spaceteam</title>
       <link>https://cyberducksteam.github.io/DuckPage/team/spaceteam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Patrick Kary)</author>
+      <author>cyberducks@protonmail.com (Kary)</author>
       <guid>https://cyberducksteam.github.io/DuckPage/team/spaceteam/</guid>
-      <description>SpaceRace   </description>
+      <description>SpaceRace  &amp;ldquo;Bis Zur Unendlichkeit und noch viel weiter&amp;rdquo; - Buzz Lightyear
+ Zwar schaffen wir es noch nicht ganz soweit aber mit deiner Hilfe könnte es gelingen, unterstütze uns bei der Entwicklung verschiedener System rund ums Thema Weltraum.
+European Rocketry Challenge Lust auf Raketen bauen? Dann ist die Rocketry Challenge richtig für dich, hier misst du dich mir 20 anderen Team um die Spitze beim Rennen ins All.
+Da der Wettbewerb noch keinen eigenes Promotionvideo hat ist hier die Teilnahme der TU beim letzten Bewerb:</description>
     </item>
     
   </channel>
