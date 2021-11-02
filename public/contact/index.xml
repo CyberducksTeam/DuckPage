@@ -8,5 +8,14 @@
     <language>de</language>
     <managingEditor>youremail@domain.com (Patrick Kary)</managingEditor>
     <webMaster>youremail@domain.com (Patrick Kary)</webMaster><atom:link href="https://cyberducksteam.github.io/DuckPage/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontaktdaten</title>
+      <link>https://cyberducksteam.github.io/DuckPage/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Patrick Kary)</author>
+      <guid>https://cyberducksteam.github.io/DuckPage/contact/contact/</guid>
+      <description>Du hast Fragen? Wir sind erreichbar über:</description>
+    </item>
+    
   </channel>
 </rss>

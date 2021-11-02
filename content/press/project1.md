@@ -1,13 +1,11 @@
 ---
-title: "Wir existieren"
+title: "Wir existieren (bald)"
 author: "Patrick Kary"
-type: "base"
-date: 03.11.2021
+type: "post"
+date: 02.11.2021
 subtitle: ""
 image: ""
 tags: []
 ---
 
-# Hello World
-
-Mit großer Freude darf..
+# Leider gibt es zurzeit keine Pressemitteilungen

@@ -2,10 +2,12 @@
 title: "Hinweis"
 author: "Patrick Kary"
 type: "base"
-date: 
+date: 2.11.2021
 subtitle: ""
 image: ""
 tags: []
 ---
 
-# Leider gibt es zurzeit keine Projekte
+# Vorschläge für Projekte? 
+
+Hier werden wir von laufenden Projekte und Kooperationen mit anderen Partnern berichten, schon Ideen? Dann schlag sie doch auf unseren Discord vor.
