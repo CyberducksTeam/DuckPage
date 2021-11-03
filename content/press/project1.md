@@ -2,7 +2,7 @@
 title: "Wir existieren (bald)"
 author: "Patrick Kary"
 type: "post"
-date: 02.11.2021
+date: "2021-11-02"
 subtitle: ""
 image: ""
 tags: []

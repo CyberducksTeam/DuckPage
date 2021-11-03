@@ -10,7 +10,7 @@ tags: []
 
 # Der Cybathlon
 
-Lust auf Cyberpunk irl dann ist der Cybathlon genau das richtige für dich, hier wollen wir Menschen mit motorisierten Prothesen helfen um ihnen den Alltag zu erleichtern.
+Lust auf Cyberpunk irl dann ist der [Cybathlon](https://cybathlon.ethz.ch/de) genau das richtige für dich, hier wollen wir Menschen mit motorisierten Prothesen helfen um ihnen den Alltag zu erleichtern.
 
 Noch kein Bild wie das aussehen könnte, dann hilft dir sicherlich das Vorstellungsvideo des Wettbewerbs:
 
