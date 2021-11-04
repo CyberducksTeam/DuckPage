@@ -2,7 +2,7 @@
 title: "Wir existieren"
 author: "Patrick Kary"
 type: "base"
-date: 03.11.2021
+date: "2021-11-02"
 subtitle: ""
 image: ""
 tags: []
