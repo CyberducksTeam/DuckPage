@@ -16,7 +16,7 @@ Solche Wettbewerbe wären:
 
 - [Cybathlon](https://cybathlon.ethz.ch/de)
 - [Formula Student](https://fsaustria.at/)
-- Space Competitions ([EuRoC - European Rocketry Challenge](https://euroc.pt/)[WARR](https://warr.de/de/), [MyEuSpace](https://www.euspa.europa.eu/myeuspacecompetition))
+- Space Competitions ([EuRoC - European Rocketry Challenge](https://euroc.pt/), [WARR](https://warr.de/de/), [MyEuSpace](https://www.euspa.europa.eu/myeuspacecompetition))
 - [RoboNation](https://robonation.org/)
 - [RoboSub](https://robonation.org/programs/robosub/)
 
